@@ -1,0 +1,4 @@
+name: HelloPlugin
+version: '1.0-SNAPSHOT'
+main: io.github.battlor12.helloPlugin.HelloPlugin
+api-version: '1.20'
